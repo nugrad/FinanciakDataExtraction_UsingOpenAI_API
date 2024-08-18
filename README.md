@@ -1,0 +1,1 @@
+# FinanciakDataExtraction_UsingOpenAI_API
